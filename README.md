@@ -1,1 +1,1 @@
-# cis-displays
+# CIS Displays
